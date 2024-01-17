@@ -2,4 +2,3 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 > Rosteria - [Invite](https://discord.gg/kWJU89ZETt)<br/>
-![Rosteria](https://img.shields.io/static/v1?label=Rosteria&message=Owner&color=ff69b4)
